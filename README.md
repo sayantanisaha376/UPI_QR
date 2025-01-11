@@ -5,5 +5,6 @@ This is a QR code generating application
 
 
 
-(https://github.com/user-attachments/assets/e7e35a42-eb65-482a-8c85-178933745eab)
+![QR](https://github.com/user-attachments/assets/d51e7b0a-9ddc-444d-8718-28d939e6b8e3)
+
 
